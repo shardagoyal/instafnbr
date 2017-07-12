@@ -1,0 +1,1 @@
+python instabrute.py -u sakhsampatni -w words.txt -p proxy.txt -t 64 -d -v

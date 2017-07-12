@@ -1,0 +1,5 @@
+2017-07-11 13:04:25,031 - __main__ - ERROR - <urlopen error _ssl.c:584: The handshake operation timed out>
+2017-07-11 13:09:09,156 - __main__ - ERROR - <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2017-07-11 13:21:25,781 - __main__ - ERROR - <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2017-07-11 13:22:37,046 - __main__ - ERROR - <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+2017-07-11 13:22:37,046 - __main__ - ERROR - <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
