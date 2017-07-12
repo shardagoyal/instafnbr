@@ -319,11 +319,11 @@ if __name__ == "__main__":
         print("[-] Error: Check your word list file path\n")
         sys.exit(1)
 
-    '''try:
+    try:
         proxys = open(args.proxy).readlines()
     except IOError:
         print("[-] Error: Check your proxy list file path\n")
-        sys.exit(1)'''
+        '''sys.exit(1)'''
 
     # enable debugging if its set
     if _debug:
