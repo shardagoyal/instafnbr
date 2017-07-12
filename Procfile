@@ -1,0 +1,1 @@
+web: gunicorn instabrute.py:app --log-file=-
