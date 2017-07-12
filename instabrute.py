@@ -145,7 +145,7 @@ def brute(q):
 
             if proxy:
                 if _verbose:
-                    print(bcolors.BOLD + "[*] Trying %s %s " % (word, " | " + proxy,) + bcolors.ENDC)
+                    '''print(bcolors.BOLD + "[*] Trying %s %s " % (word, " | " + proxy,) + bcolors.ENDC)'''
 
                 opener = rq.build_opener(
                     rq.ProxyHandler({'https': 'https://' + proxy}),
@@ -155,7 +155,7 @@ def brute(q):
 
             else:
                 if _verbose:
-                    print(bcolors.BOLD + "[*] Trying %s" % (word,) + bcolors.ENDC)
+                    '''print(bcolors.BOLD + "[*] Trying %s" % (word,) + bcolors.ENDC)'''
 
                 opener = rq.build_opener(
                     rq.HTTPHandler(),
